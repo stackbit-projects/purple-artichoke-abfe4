@@ -2,7 +2,7 @@ title: TEAGOGO
 baseURL: /
 params:
   favicon: images/blue-eggplant.png
-  logo_dark: images/logo.svg
+  logo_dark: images/enthusiastic-spruce.png
   logo_light: images/logo.png
   hamburger_background_image: /images/leaf-light-grey.svg
   bg_image_primary: /images/header.jpg

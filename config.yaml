@@ -26,7 +26,7 @@ params:
         light_grey: '#6B797A'
         bg_image_cart: /images/leaf-light-grey.svg
   main_menu:
-    - title: Store
+    - title: Teas
       url: /store
       style: link
     - title: About
